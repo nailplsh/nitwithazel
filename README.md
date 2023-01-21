@@ -1,16 +1,14 @@
 ### Hi there 👋
+#### I'm hazel aka hazelnitwit, I am a programmer and streamer from Canada.
 
-<!--
-**hazelnitwit/hazelnitwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👶 Born: '03
+- 😄 Pronouns: he/him
+- ⚡ I started programming as a hobby around 11 years old
+- 🤎 I started programming, and later streaming due to struggles with my mental health
+- 🔭 I’m currently working on [Nitty](https://github.com/hazelnitwit/Nitty) - a utility bot for Discord
+- 🌱 I’m currently learning JS again - to barely any avail
+- 💬 Ask me about music, video games or life itself
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: at [my programming discord](https://discord.gg/zV4KuWMCzx)
+- 📫 OR at [my discord account](https://discordapp.com/users/354414172559114240)
