@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm hazel aka hazelnitwit, I am a programmer and streamer from Canada.
+#### I'm hazel aka hazelnitwit or haziy, I am a programmer and streamer from Canada.
 
 - 👶 Born: '03
 - 😄 Pronouns: he/him
