@@ -2,7 +2,7 @@
 <h3 align="center">A developer and VStreamer from Ontario, Canada</h3>
 
 
-- 👶 Born: '03
+- 👶 Born: 2003
 
 - 😄 Pronouns: he/him
 
