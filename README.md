@@ -1,12 +1,12 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94451E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+hazelnitwit+aka+haziy" alt="Typing SVG" /></a></h1>
-<h3 align="center">A developer and VTuber from Ontario, Canada</h3>
+<h3 align="center">A developer and VStreamer from Ontario, Canada</h3>
 
 
 - 👶 Born: '03
 
 - 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/hazelnitwit/Nitty)
+- 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/hazelnitwit/Nitty) and [Hazel's Optimized modpack](https://modrinth.com/modpack/hazels-optimized)
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hazelnitwit@shaw.ca**
 
-- ⚡ Fun fact - **I have been programming as a hobby since 11 years old**
+- ⚡ Fun fact - **I have been programming as a hobby since 11 years old, but I don't have any "professional" experience.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
