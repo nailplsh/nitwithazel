@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94451E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+hazelnitwit+aka+haziy" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94451E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+hazelnitwit+aka+hazxl" alt="Typing SVG" /></a></h1>
 <h3 align="center">A developer and VStreamer from Ontario, Canada</h3>
 
 
