@@ -22,8 +22,6 @@
 
 <h3>Now Playing</h3>
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=toopointohh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/354414172559114240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="354414172559114240" height="30" width="40" /></a> (Discord User)
