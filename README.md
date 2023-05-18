@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=toopointohh&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=51d700&bar_color_cover=false"/>
 </p>
-<h4 align="center">If it's broken, I'm listening to a local file :P</h4>
+<h5 align="center">If it's broken, I'm listening to a local file :P</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
