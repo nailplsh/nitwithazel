@@ -20,6 +20,9 @@
 
 - ⚡ Fun fact - **I have been programming as a hobby since 11 years old, but I don't have any "professional" experience.**
 
+<h3>Now Playing</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=toopointohh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=toopointohh&redirect=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/354414172559114240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="354414172559114240" height="30" width="40" /></a> (Discord User)
