@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=toopointohh&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=51d700&bar_color_cover=false"/>
 </p>
+<h2 align="center">If it's broken, I'm listening to a local file :P</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/354414172559114240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="354414172559114240" height="30" width="40" /></a> (Discord User)
