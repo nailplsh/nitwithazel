@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94451E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+hazelnitwit+aka+hazxl" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94451E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hazel+the+Nitwit" alt="Typing SVG" /></a></h1>
 <h3 align="center">A developer and VStreamer from Ontario, Canada</h3>
 
 
@@ -6,13 +6,13 @@
 
 - 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/hazelnitwit/Nitty) and [Hazel's Optimized modpack](https://modrinth.com/modpack/hazels-optimized)
+- 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/nitwithazel/Nitty) and [Hazel's Optimized modpack](https://modrinth.com/modpack/hazels-optimized)
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 🌱 I am interested in learning **AI and Machine Learning**
 
-- 👨‍💻 You can find my livestreams at [https://twitch.tv/hazelnitwit](https://twitch.tv/hazelnitwit)
+- 👨‍💻 You can find my livestreams at [https://twitch.tv/nitwithazel](https://twitch.tv/nitwithazel)
 
 - 💬 Ask me about **music, video games or life itself**
 
@@ -38,5 +38,5 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hazelnitwit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hazelnitwit" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/nitwit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nitwit" /></a></p><br><br>
 
