@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **music, video games or life itself**
 
-- 📫 How to reach me **hazelnitwit@shaw.ca**
+- 📫 How to reach me **hazel@thenitwit.xyz**
 
 - ⚡ Fun fact - **I have been programming as a hobby since 11 years old, but I don't have any "professional" experience.**
 
