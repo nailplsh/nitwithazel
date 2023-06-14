@@ -1,5 +1,5 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94451E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hazel+the+Nitwit" alt="Typing SVG" /></a></h1>
-<h3 align="center">A developer and VStreamer from Ontario, Canada</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94451E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitwit" alt="Typing SVG" /></a></h1>
+<h3 align="center">A developer and creator from Ontario, Canada</h3>
 
 
 - 👶 Born: 2003
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **music, video games or life itself**
 
-- 📫 How to reach me **hazel@thenitwit.xyz**
+- 📫 How to reach me **techynitwit@shaw.ca**
 
 - ⚡ Fun fact - **I have been programming as a hobby since 11 years old, but I don't have any "professional" experience.**
 
@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=toopointohh&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=51d700&bar_color_cover=false"/>
 </p>
-<h5 align="center">If it's broken, I'm listening to a local file :P</h5>
+<h5 align="center">If it's broken, I'm listening to a local file LMAO</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
