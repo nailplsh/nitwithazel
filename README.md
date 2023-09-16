@@ -4,7 +4,7 @@
 
 - 👶 Born: 2003
 
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/she/they
 
 - 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/nitwithazel/Nitty) and [Hazel's Optimized modpack](https://modrinth.com/modpack/hazels-optimized)
 
