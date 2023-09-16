@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: he/she/they
 
-- 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/nitwithazel/Nitty) and [Hazel's Optimized modpack](https://modrinth.com/modpack/hazels-optimized)
+- 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/nitwithazel/Nitty) and [Nitwit's Optimized modpack](https://modrinth.com/modpack/nitwits-optimized)
 
 - 🌱 I’m currently learning **TypeScript**
 
