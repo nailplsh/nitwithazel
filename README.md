@@ -4,15 +4,14 @@
 
 - 👶 Born: 2003
 
-- 😄 Pronouns: he/she/they
+- 😄 Pronouns: any
 
-- 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/nitwithazel/Nitty) and [Nitwit's Optimized modpack](https://modrinth.com/modpack/nitwits-optimized)
-
+- 🔭 I’m currently working on [Nitty the Discord Bot](https://github.com/nitwithazel/Nitty)
 - 🌱 I’m currently learning **TypeScript**
 
 - 🌱 I am interested in learning **AI and Machine Learning**
 
-- 👨‍💻 You can find my livestreams at [https://twitch.tv/nitwithazel](https://twitch.tv/nitwithazel)
+- 👨‍💻 You can find my livestreams at [https://twitch.tv/techynitwit](https://twitch.tv/techynitwit)
 
 - 💬 Ask me about **music, video games or life itself**
 
